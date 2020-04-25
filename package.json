@@ -1,0 +1,11 @@
+{
+  "name": "@wonderbot/format-date",
+  "version": "1.0.0",
+  "description": "Prototype to Format Dates",
+  "main": "index.js",
+  "author": "Team. Callisto",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
